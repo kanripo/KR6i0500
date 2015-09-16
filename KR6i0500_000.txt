@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛治身經
+#+DATE: 2015-08-30 20:21:04.993664
+#+PROPERTY: JUAN 0
